@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/06/27 23:44:43.000.786,C:\Users\marcio.koehler\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\marcio.koehler\Documents\Embarcadero\Studio\Projects\RemoveIntegerZero.dproj</Transaction>
+    <Transaction>2025/06/27 23:49:17.000.223,=C:\Users\marcio.koehler\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/06/27 23:49:31.000.013,C:\Users\marcio.koehler\Documents\Embarcadero\Studio\Projects\JsonRemoveInt\Json.pas=C:\Users\marcio.koehler\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
